@@ -12,6 +12,7 @@
 /.angular
 /build
 /.gradle
+/gradle
 
 # profiling files
 chrome-profiler-events*.json
